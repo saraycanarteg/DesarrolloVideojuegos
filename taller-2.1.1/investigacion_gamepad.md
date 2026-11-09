@@ -53,10 +53,10 @@
 - Ayudó a que el mando de la NES se convirtiera en el modelo a imitar. Ese mando contribuyó a reactivar la industria tras la crisis de 1983.
 - Mostró que un gamepad podía dar control preciso en juegos de plataformas 2D.
 
-### *Super Mario 64* (Nintendo, 1996, Nintendo 64)
-- Fue el juego que popularizó el stick analógico en consola. Nintendo diseñó el mando y el juego a la vez.
-- El stick permite moverse en 360° y controlar la velocidad según cuánto se inclina: una inclinación leve hace que Mario camine despacio y una completa lo hace correr.
-- Mostró que el D-pad no bastaba para moverse con precisión en 3D, y marcó el camino de los controles de plataformas 3D posteriores.
+### *Street Fighter II* (Capcom, 1991 en arcade; 1992 en Super Nintendo)
+- Usaba seis botones de ataque (tres puñetazos y tres patadas) más la dirección, algo muy distinto a los dos o tres botones de los juegos de la época. Eso exigió mandos de seis botones en las consolas.
+- Sus golpes especiales se hacen con combinaciones de direcciones y botones, como el cuarto de círculo para el *Hadouken*. Esos movimientos requieren una cruceta o un stick muy preciso, y por eso el D-pad se volvió clave en los juegos de pelea.
+- Su versión de Super Nintendo (1992) vendió más de 6,3 millones de cartuchos, lo que lo convirtió en el juego más vendido de Capcom durante las dos décadas siguientes.
 
 ## 5. Fuentes
 
