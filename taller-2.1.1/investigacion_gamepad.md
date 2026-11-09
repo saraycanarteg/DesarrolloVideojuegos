@@ -73,3 +73,5 @@
 - TechSpot – *Anatomy of a Gamepad*: https://www.techspot.com/article/2182-anatomy-gamepad
 - Desmontaje de un mando PS4 (botones con goma conductiva, stick con potenciómetros): https://voicetube.com/videos/159755
 
+## 6. Diapositivas
+https://canva.link/qdqtz597mcw1fib
