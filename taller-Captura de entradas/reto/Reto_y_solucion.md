@@ -1,6 +1,6 @@
 # Reto · Grupo 3 · «Pintor de puntos»
 
-**Tiempo:** 7 minutos · **Se entrega a los compañeros:** `proyecto-godot/reto.tscn` + `reto_inicio.gd`
+**Tiempo:** 7 minutos ·
 
 ## Enunciado
 Completen la función `_input(event)` de `reto_inicio.gd` para que cada clic izquierdo deje un punto donde se hizo clic,
@@ -15,15 +15,11 @@ la rueda del ratón cambie el tamaño del próximo punto y la acción `borrar` l
 
 **Logrado** = se cumplen R1, R2 y R3 al ejecutar la escena con F6.
 
-## Por qué no repite el ejercicio
-El ejercicio usó `MOUSE_BUTTON_LEFT` y `MOUSE_BUTTON_RIGHT`. El reto pide algo nuevo: descubrir que la **rueda** también
-llega como `InputEventMouseButton` (con otro `button_index`) y crear nodos en tiempo de ejecución en la posición del evento.
-
-## Pista (se da al minuto 4 del reto)
+## Pista 
 > La rueda **no** es un evento aparte: también es `InputEventMouseButton`. Comparen `event.button_index` con
 > `MOUSE_BUTTON_WHEEL_UP` y `MOUSE_BUTTON_WHEEL_DOWN`. Para borrar, recorran `get_tree().get_nodes_in_group("puntos")`.
 
-## Solución (se muestra en el cierre)
+## Solución 
 ```gdscript
 func _input(event: InputEvent) -> void:
 	if event is InputEventMouseButton and event.pressed:
